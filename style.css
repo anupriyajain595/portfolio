@@ -97,7 +97,7 @@ transition: color 0.3s ease;
 .home
 {
     display: flex;
-    background: url(/backgroungimg.png); 
+    background: url("backgroungimg.png"); 
     height: 100vh;
     color: #fff;
     min-height: 500px;
